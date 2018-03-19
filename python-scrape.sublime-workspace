@@ -1,0 +1,325 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"http"
+			],
+			[
+				"B",
+				"BeautifulSoup"
+			],
+			[
+				"sou",
+				"soup"
+			],
+			[
+				"pre",
+				"prettify\tfunction"
+			],
+			[
+				"to",
+				"today"
+			],
+			[
+				"da",
+				"days"
+			],
+			[
+				"lmd",
+				"lmd"
+			],
+			[
+				"robots",
+				"robots.txt"
+			],
+			[
+				"robot",
+				"robots.txt"
+			],
+			[
+				"domain",
+				"domain"
+			],
+			[
+				"me",
+				"messaggio"
+			],
+			[
+				"chec",
+				"check_robots"
+			],
+			[
+				"retu",
+				"return"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"my",
+				"mysqli_query\t(mysql.php)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "scrape-2.py",
+			"settings":
+			{
+				"buffer_size": 265,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"last_filter": "Package Control: inst",
+		"selected_items":
+		[
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/gigi76/Documents/GitHub/python-exe"
+	],
+	"file_history":
+	[
+		"/C/Users/gigi76/Desktop/nanni_robots.txt",
+		"/C/Users/gigi76/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/D/Program Files (x86)/Ampps/www/scrape-1",
+		"/D/Program Files (x86)/Ampps/www/daily.py",
+		"//Evoluzione1/d/public/Materiali siti clienti/Sir/Web Marketing/Seo/wd-301",
+		"/C/Users/gigi76/Desktop/wp_sandrinigarden_2018-02-06_15-19-51.sql",
+		"//Evoluzione1/d/public/Materiali siti clienti/Dimensione Comunità/web marketing/Seo/dim-com-301.txt",
+		"/D/Program Files (x86)/Ampps/www/index.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/gigi76/AppData/Roaming/Sublime Text 3/Packages/All Autocomplete/All Autocomplete.sublime-settings",
+		"/C/Users/gigi76/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/C/Users/gigi76/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/gigi76/Desktop/config.asp",
+		"/C/Users/gigi76/Desktop/index.php",
+		"/D/Program Files (x86)/Ampps/www/mysql.php",
+		"/D/Program Files (x86)/Ampps/apache/htdocs/index.php",
+		"/C/Users/gigi76/Desktop/.htaccess",
+		"/D/BACKUP/dumpall_210617.sql",
+		"/D/DOWNLOAD/Ftp farma774.xml",
+		"/C/Users/gigi76/Desktop/301-ellepack",
+		"//Evoluzione1/d/@GMT-2017.06.19-06.00.02/public/Materiali siti clienti/Energy Saving/Marketing/Seo/redirect301",
+		"/C/Users/gigi76/Desktop/htaccess",
+		"/C/Users/gigi76/Desktop/.htaccess-benesserefarmaciaschiavo",
+		"/D/DOWNLOAD/htaccess",
+		"/C/Users/gigi76/Desktop/redirect301.txt",
+		"//Evoluzione1/d/public/Materiali siti clienti/Energy Saving/Marketing/Seo/redirect301",
+		"/C/Users/gigi76/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "scrape-2.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 265,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								265,
+								265
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 311.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "python-scrape.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 136.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
